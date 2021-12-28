@@ -3,7 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Cairo SemiBold";
+    /* font-family: "Cairo SemiBold"; */
+    font-family: 'Almarai', sans-serif;
 }
 
 body
@@ -821,7 +822,7 @@ body
 {
     position:absolute;
     left: 30px;
-    top:9px;
+    top:19px;
     font-size: 33px;
     display: block;
     color: #ff5d5e;
